@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "dfb4f257718c4d38",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa08b3dac57e3246",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Java/类与对象/类与对象01.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43ff39302ef9d10d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a34d5c4e308b4a57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0bc092569cd2c45",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ef1bbd66bbe6601",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0552ef31d88e8d24",
+    "type": "split",
+    "children": [
+      {
+        "id": "abcc00c202cc8158",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe0f122683425b1f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java/类与对象/类与对象01.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "aa08b3dac57e3246",
+  "lastOpenFiles": [
+    "Java/类与对象/类与对象01.md",
+    "README.md",
+    "未命名.md"
+  ]
+}
